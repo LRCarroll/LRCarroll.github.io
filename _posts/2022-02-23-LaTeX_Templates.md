@@ -1,5 +1,6 @@
+---
 layout: post
-title: How to Access Chemdraw for Students
+title: LaTeX Templates
 tags: [LaTeX , Templates]
 published: true
 ---
