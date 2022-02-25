@@ -9,7 +9,7 @@ So I have decided to make a personal website, now what? It is uncommon for gradu
 * Write up "how to" blogs so that people don't have to spend hours working out how to do the things I have done. This is also handy when I need to revisit something I did and cannot remember how to do it.
 * Understand the *internet* better and learn how to deploy and maintain a website
 
-I learnt how to program using [MATLAB](https://au.mathworks.com/products/matlab.html)`MATLAB`  which is a great tool for for routine scientific computing tasks. I'm a big fan of `MATLAB` as it is a great more straight forward way of quickly visualising your data. You also don't have to deal with 'CS stuff' like libraries, dependencies, *etc.*, but, other languages like 'Python' are certainly more prominent in the software engineer roles, so I have also expanded my range and started using this too. So this website will be partially an exercise in breaking out of my 'MATLAB' comfort zone.
+I learnt how to program using [`MATLAB`](https://au.mathworks.com/products/matlab.html)  which is a great tool for for routine scientific computing tasks. I'm a big fan of `MATLAB` as it is a great more straight forward way of quickly visualising your data. You also don't have to deal with 'CS stuff' like libraries, dependencies, *etc.*, but, other languages like 'Python' are certainly more prominent in the software engineer roles, so I have also expanded my range and started using this too. So this website will be partially an exercise in breaking out of my 'MATLAB' comfort zone.
 
 ## Making this website
 
