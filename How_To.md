@@ -2,6 +2,7 @@
 layout: post
 title: How to...
 permalink: How_to
+
 ---
 
 This page is a list of posts of general how tos that I have found or written which might be useful for you.
