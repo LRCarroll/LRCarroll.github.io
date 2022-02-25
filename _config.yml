@@ -1,8 +1,8 @@
 title:      Moonwalk
 author:     Liam Carroll
 email:      liam.robert.carroll@gmail.com
-url:        https://lrcarroll.github.io/Website/ # root address of the site
-baseurl:    "Website"
+url:        https://lrcarroll.github.io # root address of the site
+baseurl:    ""
 description: > # description of the site (multiple lines allowed)
   Stuff I find interesting and want other people to see.
   # Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
