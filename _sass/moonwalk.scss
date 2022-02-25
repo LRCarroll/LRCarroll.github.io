@@ -96,6 +96,7 @@ html[data-theme="dark"] { @include dark-appearance; }
 html, body {
     background-color: var(--bg);
     color: var(--text);
+    text-align: justify;
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);

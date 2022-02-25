@@ -1,39 +1,39 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Posts
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: CV
+    url: CV
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Research and Experiences
+    url: research
+    desc: Summary of previous research and experiences
 
-  - title: Project 2
-    url: overview-post
+  - title: Publications
+    url: Publications
     desc: Projects are shown in card layout
 
-  - title: Project 3
-    url: overview-post
+  - title: How To 
+    url: How_to
     desc: You can control visibility from _config.yml file
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  #- title: Project 4
+  #  url: overview-post
+  #  desc: This project uses highlight markup, configured in _data/home.yml
+  #  highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+ # - title: Project 5
+    #url: overview-post
+    #desc: Moonwalk also has horizontal list (used in header and footer)
+   # highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  #- title: Project 6
+ #   url: overview-post
+#    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
@@ -54,17 +54,15 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: liam.robert.carroll@gmail.com
+    url: false
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/liam-r-carroll/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/LRCarroll
 
-  - title: feed
-    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
