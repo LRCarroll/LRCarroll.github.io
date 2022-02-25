@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-html { height: 100%; }
+
+html { height: 120%; }
 
 body {
-  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
+  font-family:  "Source Sans 3", roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
   font-size: 1.0rem;
   line-height: 2;
   margin: 0;
   min-height: 100%;
 }
 pre, code {
-  font-family: "Anonymous Pro", "Courier New", monospace;
+  font-family: "Source Code Pro",  monospace;
   font-size: 0.9rem;
 }
 
