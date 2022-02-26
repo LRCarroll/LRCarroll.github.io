@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Source+Sans+3:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 
 html { height: 120%; }
 
@@ -12,7 +14,7 @@ body {
   min-height: 100%;
 }
 pre, code {
-  font-family: "Source Code Pro",  monospace;
+  font-family: "Inconsolata", "Source Code Pro",  monospace;
   font-size: 0.9rem;
 }
 
@@ -38,12 +40,8 @@ li { margin: 0.4em 0; }
   padding: 4em 2em;
 }
 
-table, th, td {
-  width: 100%;
-  border: thin solid black;
-  border-collapse: collapse;
-  padding: 0.4em;
-}
+
+
 
 div.highlighter-rouge pre code, pre code.highlighter-rouge {
   display: block;
@@ -66,7 +64,10 @@ img {
 }
 html {
     --bg: #FFF;
-    --bg-secondary: #f8f8f8;
+    --bg-secondary: #f9f9f9;
+    --bg-head:   #f0f0f0;
+    --fr-head:   #e0e0e0;
+    --fr-table:  #e8e8e8;
     --headings: #000;
     --text: #333;
     --links: blue;
@@ -74,6 +75,7 @@ html {
     --code-text: #9D174D;
     --share-text: #999;
 }
+
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
@@ -81,7 +83,11 @@ html {
       --links: #91A7FF;
       --highlight: #41C7C7;
       --bg: #1f242A;
-      --bg-secondary: #323945;
+      --bg-secondary:  #242931;
+      --bg-head:       #292e36;
+      --fr-head: #32373f;
+      --fr-table: #363c47;
+      
       --text: #adb5bd;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
@@ -93,6 +99,41 @@ html[data-theme="dark"] { @include dark-appearance; }
   body[data-theme="auto"] { @include dark-appearance; }
 }
 // -------------------------------------------- //
+
+
+
+$table-zebra-color:     var(--bg-secondary);
+$table-header-bg-color: var(--bg-head);
+$table-header-border:   var(--fr-head);
+$table-border-color:    var(--fr-table);  
+
+$spacing-unit: 1em;
+$table-text-align: left;
+$table-text-color: var(--text);
+
+table {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: $table-text-align;
+  color: $table-text-color;
+  border-collapse: collapse;
+  border: 1px solid $table-border-color;
+  tr {
+    &:nth-child(even) {
+      background-color: $table-zebra-color;
+    }
+  }
+  th, td {
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+  }
+  th {
+    background-color: $table-header-bg-color;
+    border: 1px solid $table-header-border;
+  }
+  td {
+    border: 1px solid $table-border-color;
+  }
+}
 
 html, body {
     background-color: var(--bg);

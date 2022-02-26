@@ -41,6 +41,9 @@ Full abstract available on request.
 
 
 ### Bachelor of Science with Honours (March 2017 - December 2017)
+
+Graduated with a First Class Honours
+
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
 
 **Supervisor:** <a href="https://www.canterbury.ac.nz/science/contact-us/people/alison-downard.html">Prof. Alison Downard</a>
@@ -115,6 +118,13 @@ GPA: 8.51 (out of 9)
 | January 2018| Summer Research Scholarship Conference | University of Canterbury, NZ|
 | November, 2017 | Postgraduate Showcase Symposium |University of Canterbury, NZ|
 | August, 2017 | Postgraduate Poster Presentation | University of Canterbury, NZ |
+
+
+
+
+|Name|Value|
+|----|---------|
+|<img width=200/>|<img width=700/>|
 
 ## Selected Honours and Awards
 
