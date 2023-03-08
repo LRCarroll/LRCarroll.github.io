@@ -10,16 +10,11 @@ title: Who am I?
 
 Kia Ora, my name is Liam Carroll
 
-I am currently in the process of completing my PhD in chemistry from the University of Canterbury, New Zealand. I am currently scheduled to defend my thesis at the end of April 2022. I have also completed a BSc(Hons) in chemistry sand a BSc majoring in chemistry and mathematics, also from the University of Canterbury. My graduate research focuses on the chemical modification of transparent semiconducting materials to alter their electronic properties for use in devices.
+I am a postdoctoral researcher at the University of New South Wales, Australia, where I work on developing electrochemical aptamer-based sensors. I completed my PhD in chemistry from the University of Canterbury, New Zealand, where I focused on the chemical modification of transparent semiconducting materials for use in electronic devices.
 
-I am currently looking to expand my horizons in Europe and if you have any interesting opportunities, please feel free to contact me below.
+In addition to my PhD, I hold a BSc(Hons) in chemistry and a BSc majoring in chemistry and mathematics, both from the University of Canterbury. My research interests include nanotechnology, electrochemistry, and bioanalytical chemistry.
 
- This is my personal website. The views expressed on this page are mine alone and not those of any organisation I am related to. It will be updated when I have time. 
+On this website, you'll find updates on my current research, publications, and other projects. Please note that the views expressed here are my own and not those of any organisation I am affiliated with. I will update this page when time permits, so please check back periodically. If you have any interesting opportunities or collaborations, please feel free to contact me below.
 
 
 **Email:** [liam.robert.carroll@gmail.com](liam.robert.carroll@gmail.com)
-
-
-
-
-

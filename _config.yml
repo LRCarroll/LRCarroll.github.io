@@ -9,7 +9,7 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:slug
 
 favicon: "./favicon_io/android-chrome-512x512.png" # relative path to site's favicon
-site_favicon: "favicon.ico"
+site_favicon: "./favicon.ico"
 
 twitter:
     username: abhinav # update or delete this

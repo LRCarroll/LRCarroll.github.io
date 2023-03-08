@@ -6,9 +6,18 @@ permalink: CV
 
 Last updated February 17, 2022
 
-## Research and Education 
+## Research and Education
 
-### Doctor of Philosophy (March 2018 - Present) 
+### Postdoctoral Research Associate (May 2022 - Present)
+<a href="https://www.unsw.edu.au/science/our-schools/chemistry">School of Chemistry</a>, University of New South Wales, Australia
+
+**Supervisor:** <a href="https://research.unsw.edu.au/people/scientia-professor-justin-gooding">Scientia Prof. Justin Gooding</a>
+
+**Research:** *Diazonium Electrochemical Aptamer-Based Sensors for Vancomycin*
+
+**Overview:** Given the unpublished nature of this work, I am unable to share specific results at this time. However, for an introduction to E-AB sensors, please refer to the following resource:
+
+### Doctor of Philosophy (March 2018 - January 2022)
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
 
 **Supervisor:** <a href="https://www.canterbury.ac.nz/science/contact-us/people/alison-downard.html">Prof. Alison Downard</a>
@@ -17,7 +26,7 @@ Last updated February 17, 2022
 
 **Thesis:** *Covalently-Bound Organic Modification of Transparent Metal Oxides: Effects on the Chemical and Electronic Surface Properties*
 
-**Abstract:** This thesis describes the chemical modification and characterisation of SnO<sub>2</sub> thin-films and nanostructures and of β-Ga<sub>2</sub>O<sub>3</sub>. Due to the native OH termination of the metal oxide surfaces, SnO<sub>2</sub> and β-Ga<sub>2</sub>O<sub>3</sub> exhibit surface band bending. Previous work in our research group has found that the OH coverage on metal oxide surfaces correlates with the amount of band bending at the surface. Bare SnO<sub>2</sub> and β-Ga<sub>2</sub>O<sub>3</sub> surfaces exhibit downwards and upwards band bending, respectively, and the electron density at the surfaces can be increased by the formation of terminal OH groups on exposure to the atmosphere. Increased electron density results in greater conductivity, while a decrease in electron density makes the surface insulating. The OH coverage of metal oxides is highly susceptible to environmental changes, which can alter the conductivity at the surface and is undesirable for some transparent semiconducting devices. One approach to reducing the influence of the environment on OH coverage and changes in band bending is to coat the surface. Modification of SnO<sub>2</sub> using covalently bound molecules has previously been investigated; however, no reports on the deliberate modification of β-Ga<sub>2</sub>O<sub>3</sub> could be found. There has been very little investigation on chemically altering metal oxide band bending and none at all on β-Ga<sub>2</sub>O<sub>3</sub>. This work investigates the effects on band bending when aryldiazonium ions, aryliodonium ions, phosphonic acids, and Na<sub>2</sub>S are used to modify the (101) surface of SnO<sub>2</sub> thin-films, (001) surfaces of SnO<sub>2</sub> nanotubes, and the (–201) and (010) surfaces of β-Ga<sub>2</sub>O<sub>3</sub>. 
+**Abstract:** This thesis describes the chemical modification and characterisation of SnO<sub>2</sub> thin-films and nanostructures and of β-Ga<sub>2</sub>O<sub>3</sub>. Due to the native OH termination of the metal oxide surfaces, SnO<sub>2</sub> and β-Ga<sub>2</sub>O<sub>3</sub> exhibit surface band bending. Previous work in our research group has found that the OH coverage on metal oxide surfaces correlates with the amount of band bending at the surface. Bare SnO<sub>2</sub> and β-Ga<sub>2</sub>O<sub>3</sub> surfaces exhibit downwards and upwards band bending, respectively, and the electron density at the surfaces can be increased by the formation of terminal OH groups on exposure to the atmosphere. Increased electron density results in greater conductivity, while a decrease in electron density makes the surface insulating. The OH coverage of metal oxides is highly susceptible to environmental changes, which can alter the conductivity at the surface and is undesirable for some transparent semiconducting devices. One approach to reducing the influence of the environment on OH coverage and changes in band bending is to coat the surface. Modification of SnO<sub>2</sub> using covalently bound molecules has previously been investigated; however, no reports on the deliberate modification of β-Ga<sub>2</sub>O<sub>3</sub> could be found. There has been very little investigation on chemically altering metal oxide band bending and none at all on β-Ga<sub>2</sub>O<sub>3</sub>. This work investigates the effects on band bending when aryldiazonium ions, aryliodonium ions, phosphonic acids, and Na<sub>2</sub>S are used to modify the (101) surface of SnO<sub>2</sub> thin-films, (001) surfaces of SnO<sub>2</sub> nanotubes, and the (–201) and (010) surfaces of β-Ga<sub>2</sub>O<sub>3</sub>.
 
 Full abstract available on request.
 
@@ -27,17 +36,17 @@ Full abstract available on request.
 
 **Supervisor:** <a href="https://unidirectory.auckland.ac.nz/profile/n-gaston">A/Prof. Nicola Gaston</a>
 
-**Overview:** A visiting researcher for 6 weeks where the fundimental computation techniques for surface modifications were learnt. This work ended up being one chapter in my thesis. 
+**Overview:** A visiting researcher for 6 weeks where the fundimental computation techniques for surface modifications were learnt. This work ended up being one chapter in my thesis.
 
 
 ### Summer Research Internship (November 2017 - February 2018)
 <a href="https://www.canterbury.ac.nz/study/subjects/chemical-and-process-engineering/">Chemical and Process Engineering</a>, University of Canterbury
 
-**Supervisors:** <a href="https://www.canterbury.ac.nz/engineering/contact-us/people/matt-james-watson.html">Prof. Matt Watson</a> and <a href="https://www.canterbury.ac.nz/engineering/contact-us/people/catherine-bishop.html">A/Prof. Catherine Bishop</a> 
+**Supervisors:** <a href="https://www.canterbury.ac.nz/engineering/contact-us/people/matt-james-watson.html">Prof. Matt Watson</a> and <a href="https://www.canterbury.ac.nz/engineering/contact-us/people/catherine-bishop.html">A/Prof. Catherine Bishop</a>
 
 **Topic:** *Ultra-High Temperature Electrolysis to Produce Titanium*
 
-**Overiew:** Conducted thermodynamic calculates relating to the electrolysis of slag and evaluate <a href="https://thermocalc.com/">Thermo-Calc</a> as a viable software package for this.
+**Overview:** Conducted thermodynamic calculates relating to the electrolysis of slag and evaluate <a href="https://thermocalc.com/">Thermo-Calc</a> as a viable software package for this.
 
 
 ### Bachelor of Science with Honours (March 2017 - December 2017)
@@ -52,7 +61,7 @@ Graduated with a First Class Honours
 
 **Thesis:** [*Novel Coatings for Improving the Corrosion Resistance of Mg Biomedical Implants*](assets/Liam Carroll - Honours Thesis.pdf)
 
-**Abstract:** This study looked at the functionalisation of Mg using aryldiazonium chemistry to decrease the corrosion properties of the metal and successfully modified the surface. 
+**Abstract:** This study looked at the functionalisation of Mg using aryldiazonium chemistry to decrease the corrosion properties of the metal and successfully modified the surface.
 
 ### Summer Researcher
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
@@ -61,7 +70,7 @@ Graduated with a First Class Honours
 
 **Topic:** Deliberate boxes and accidental wheels
 
-**Overview:** Summer researcher during my first year at UC to develop lab skills in organic/inorganic wet labs. 
+**Overview:** Summer researcher during my first year at UC to develop lab skills in organic/inorganic wet labs.
 
 ### Bachelor of Science (March 2014 - December 2016)
 Major in chemistry and mathematics
@@ -78,26 +87,29 @@ GPA: 8.51 (out of 9)
 1. **Carroll, L.** Biodegradable Magnesium in Temporary Medical Implants. *Chem. New Zeal.* **2019**, *83* (2), 78–80. Link: <a href="https://nzic.org.nz/app/uploads/2019/05/CiNZ-Apr-2019.pdf">here</a>
 
 ## Work Experience
+### Postdoctoral Research Associate (May 2022 – Present)
+Development of an electrochemical aptamer-based based biosensor
+
 ### Research Associate (2022 – Present)
-[University of Canterbury] 
-### Senior Laboratory Supervisor (2017 – Present) 
+University of Canterbury
+### Senior Laboratory Supervisor (2017 – Present)
 <a href="https://www.syft.com/">Syft Technologies</a>, Christchurch, New Zealand
 
 * Senior supervisors for 200, and 300-level synthetic and analytical/physical chemistry lab courses
 * Team leader for fellow teaching assistants and students
 * Requires extensive knowledge of organic, inorganic, analytical, and physical techniques
-* <a href="https://www.syft.com/careers/internship"> Link</a> to video about my experiences 
+* <a href="https://www.syft.com/careers/internship"> Link</a> to video about my experiences
 
-### Science Summer Internship | SYFT Technologies, Christchurch (2016 – 2017) 
+### Science Summer Internship | SYFT Technologies, Christchurch (2016 – 2017)
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
 
 * Expanding the customer and in-house chemical catalogue used for SIFT-MS instrument.
 * This involved using chemical knowledge to prepare and handle a range of chemicals.
 * Modification, repairs, and maintenance on instruments were also required for certain non-volatile compounds and if damage had occurred.
 
-### Private tutor (2015 – 2018) 
- <a href="https://www.aheadstart.co.nz/">AHeadStart</a>, Christchurch, New Zealand 
- 
+### Private tutor (2015 – 2018)
+ <a href="https://www.aheadstart.co.nz/">AHeadStart</a>, Christchurch, New Zealand
+
 * Tutoring high school students in maths, statistics, chemistry, physics, and biology.
 * Responsibilities include one-on-one tutoring, using clear and precise communication, being able to answer questions, knowledge of the topic, keeping up to date with the current curriculum and knowledge of exam and assignment layout, whilst setting reachable targets, homework, and project timelines for the student.
 
@@ -140,7 +152,7 @@ GPA: 8.51 (out of 9)
 ## Key Skills
 * Determined to always learn more
 * Self-aware and resilient
-* Public presentation 
+* Public presentation
 * Teacher, leader, and team member
 * First Aid Certificate
 
@@ -156,7 +168,7 @@ GPA: 8.51 (out of 9)
 * VASP
 * GAMESS
 * Microsoft Office
-* NOVA 
+* NOVA
 * Fusion 360
 * ChemDraw
 * Adobe suite
@@ -176,5 +188,3 @@ GPA: 8.51 (out of 9)
 * **Manager and Player (2014-present)** - University of Canterbury Hockey Club
 * **Volunteer Leadership Expedition, School Building (2012)** - Thailand and Cambodia
 * **Hiking** - New Zealand
-
-
