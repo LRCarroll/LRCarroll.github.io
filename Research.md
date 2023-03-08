@@ -6,5 +6,4 @@ permalink: research
 ---
 
 
-<a href="Publications/">See my current publications here</a>
-
+<a href="https://lrcarroll.github.io/Publications/">See my current publications here</a>
