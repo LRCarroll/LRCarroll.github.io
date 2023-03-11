@@ -13,7 +13,7 @@ project_entries:
     url: CV
     desc:  Short written summary of my career, qualifications, and education
 
-  - title: Doctoral Thesis
+  - title: My Research Projects
     url: research
     desc: Summary of previous research and experiences
 
