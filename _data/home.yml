@@ -9,7 +9,7 @@ navbar_entries:
     url: CV
 
 project_entries:
-  - title: CV
+  - title: Curriculum Vitae
     url: CV
     desc:  Short written summary of my career, qualifications, and education
 

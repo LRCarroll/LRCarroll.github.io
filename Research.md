@@ -26,14 +26,14 @@ As a PhD student in the School of Physical and Chemical Sciences at the Universi
 
 **The main areas of my project involved:**
 * Electrochemical and spontaneous modification of metal oxide surfaces
+<figure>
+ <img src="/assets/PhD_1.png" alt="Trulli" style="width:60%">
+ <figcaption>Figure 1: (A) Consecutive cyclic voltammograms measured at (a) (2̅01) β-Ga2O3 (red) and (b) (010) β-Ga2O3 (blue) substrates in 2 mM NBD in 0.1 M [Bu4N]BF4−ACN. Scan rate = 50 mV/s. Solid line: 1st scan; dashed line: 2nd scan.
+     (B) Valence band XPS spectra (hν = 150 eV) of unmodified and NP- and ODPA-modified (2̅01) β-Ga2O3, and the corresponding linear least-squares fitting of the low BE edge used to extract the band bending parameter ζ. The inset shows the respective (normalized) Ga 3d spectra collected at the same time as the VB spectra
+     (C) Core-level XPS measurements from as-received and NP-modified,(2̅01) β-Ga2O3 samples: N 1s,  spectra.</figcaption>
+</figure>
+<br>
 
-<img src="\assets\PhD_1.png" width=60%        alt="A few figures from my thesis">
-
-![Graphic abstract](\assets\PhD_1.png)
-
-*(A) Consecutive cyclic voltammograms measured at (a) (2̅01) β-Ga2O3 (red) and (b) (010) β-Ga2O3 (blue) substrates in 2 mM NBD in 0.1 M [Bu4N]BF4−ACN. Scan rate = 50 mV/s. Solid line: 1st scan; dashed line: 2nd scan.
-    (B) Valence band XPS spectra (hν = 150 eV) of unmodified and NP- and ODPA-modified (2̅01) β-Ga2O3, and the corresponding linear least-squares fitting of the low BE edge used to extract the band bending parameter ζ. The inset shows the respective (normalized) Ga 3d spectra collected at the same time as the VB spectra
-    (C) Core-level XPS measurements from as-received and NP-modified,(2̅01) β-Ga2O3 samples: N 1s,  spectra.*
 <br>
 
 * Nanofabrication of Schotty diodes

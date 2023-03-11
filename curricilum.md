@@ -15,7 +15,7 @@ Last updated February 17, 2022
 
 **Research:** *Diazonium Electrochemical Aptamer-Based Sensors for Vancomycin*
 
-**Overview:** Given the unpublished nature of this work, I am unable to share specific results at this time. However, for an introduction to E-AB sensors, please refer to the following resource:
+**Overview:** Given the unpublished nature of this work, I am unable to share specific results at this time. However, for an introduction to E-AB sensors, please refer to the following resource [here](research)
 
 ### Doctor of Philosophy (March 2018 - January 2022)
 <a href="https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/">School of Physical and Chemical Sciences</a>, University of Canterbury
