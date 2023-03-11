@@ -108,7 +108,6 @@ The use of molten oxide electrolysis to produce metals has been proven more sust
 Conducted thermodynamic calculates relating to the electrolysis of slag and evaluate <a href="https://thermocalc.com/">Thermo-Calc</a> as a viable software package for this.
 
 ## References
-
-* [www.nutromics.com](www.nutromics.com)
-* [SMS research group](https://www.unsw.edu.au/science/our-schools/chemistry/our-research/our-research-groups/smart-materials-and-surfaces-group)
-* [Kevin Plaxco's research group](https://plaxco.chem.ucsb.edu/)
+* <a href="www.nutromics.com">Nutromics</a>
+* <a href="https://www.unsw.edu.au/science/our-schools/chemistry/our-research/our-research-groups/smart-materials-and-surfaces-group">SMS research group</a>
+* <a href="https://plaxco.chem.ucsb.edu/">Kevin Plaxco's research group</a>
