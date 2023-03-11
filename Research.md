@@ -31,22 +31,50 @@ As a PhD student in the School of Physical and Chemical Sciences at the Universi
 
 <a href="https://ir.canterbury.ac.nz/handle/10092/104008/">Link to my PhD thesis.</a> Currently this is under embargo, however if you are interested I can send through a copy.
 
-## Biomedical Magnesium
+## Novel Coatings for Improving the Corrosion Resistance of Mg Biomedical Implants
 
 My Honours thesis project, under the supervision of Prof. Alsion Downard and Ass. Prof. Mark Staiger, focused on the development of a biocompatible layer to
 decrease the corrosion properties of the biomedical magnesium.
 
-<img src="assets/Biomedical_Mg.png"  width=60%>
+<figure>
+    <img src="\assets\Biomedical_Mg.png"
+        width=60%
+        alt="Elephant at sunset">
+    <figcaption>The mechanical strength of bone, permanent implants, and solid and porous degradable
+    implants as the bone heals. Consolidation is the point at which the stronger lamellar bone forms,
+    requiring pressure to form correctly.</figcaption>
+</figure>
 
-*The mechanical strength of bone, permanent implants, and solid and porous degradable
-implants as the bone heals. Consolidation is the point at which the stronger lamellar bone forms,
-requiring pressure to form correctly. Modified from reference 13.*
 
+<br>
 
 A link to my thesis can be found here: [*Novel Coatings for Improving the Corrosion Resistance of Mg Biomedical Implants*](assets/Liam Carroll - Honours Thesis.pdf)
 
+## Ultra-High Temperature Electrolysis to Produce Titanium
+The use of molten oxide electrolysis to produce metals has been proven more sustainable and environmentally friendly than the common, carbon-intensive, traditional metallurgical processes. The potential to reduce emissions to the environment increases if large-scale waste materials are used as feedstock for this process. It has been shown that the electrochemical recovery of metals from molten TiO<sub>2</sub>−SiO<sub>2</sub>−Al<sub>2</sub>O<sub>3</sub>−MgO−CaO slag, a by-product of some ironmaking processes, is feasible, although the process had very low faradaic efficiency. Moreover, Ti-bearing slag has been proposed as a substitute for rutile as the feedstock for the titanium industry. However, a more extensive understanding of the electrical properties of this complex oxide system in its molten state is paramount in the design of industrial electrochemical cells.
+
+<figure>
+    <img src="\assets\ThermoCalc.png"
+        width=60%
+        alt="Pseudo-Ternary Phase Diagram">
+    <figcaption>A pseudo-ternary phase diagram of the SiO<sub>2</sub>-CaO-FeO system. Calculated using ThermoCalc.</figcaption>
+</figure>
+<br>
+
+**Project Goals:**
+* Use slag by product while it is still in its molten state (at 1750 K)
+  * Lower costs
+  * Better thermodynamics and kinetics
+* Investigate various parameters
+  * Electrolytes (if any)
+  * Electrode materials
+  * Additives
+* Commercial pathway
+  * Produce fine powder for 3D printing
+Conducted thermodynamic calculates relating to the electrolysis of slag and evaluate <a href="https://thermocalc.com/">Thermo-Calc</a> as a viable software package for this.
 
 ## References
 
 * [www.nutromics.com](www.nutromics.com)
+* [SMS research group](https://www.unsw.edu.au/science/our-schools/chemistry/our-research/our-research-groups/smart-materials-and-surfaces-group)
 * [Kevin Plaxco's research group](https://plaxco.chem.ucsb.edu/)
