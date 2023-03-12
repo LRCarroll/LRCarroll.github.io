@@ -5,9 +5,6 @@ navbar_entries:
   - title: Research
     url: research
 
-  - title: CV
-    url: CV
-
   - title: Publications
     url: Publications
 
