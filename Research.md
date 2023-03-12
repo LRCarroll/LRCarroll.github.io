@@ -25,7 +25,7 @@ As a PhD student in the School of Physical and Chemical Sciences at the Universi
 
 
 **The main areas of my project involved:**
-* Electrochemical and spontaneous modification of metal oxide surfaces
+* **Electrochemical and spontaneous modification of metal oxide surfaces**
 <figure>
  <img src="/assets/PhD_1.png" alt="Trulli" style="width:60%">
  <figcaption>Figure 1: (A) Consecutive cyclic voltammograms measured at (a) (2̅01) β-Ga2O3 (red) and (b) (010) β-Ga2O3 (blue) substrates in 2 mM NBD in 0.1 M [Bu4N]BF4−ACN. Scan rate = 50 mV/s. Solid line: 1st scan; dashed line: 2nd scan.
@@ -36,16 +36,16 @@ As a PhD student in the School of Physical and Chemical Sciences at the Universi
 
 <br>
 
-* Nanofabrication of Schotty diodes
+* **Nanofabrication of Schotty diodes**
 <figure>
     <img src="/assets/PhD_2.png"
         width=80%
         alt="A few figures from my thesis">
-    <figcaption>Schematic diagrams for the sample holder used for the Pd Schottky diode fabrication. (A) Sample holder and shadow mask. (B) During the sputtering process. (C) After the sputtering process and removal of shadow mask. (D) Photograph of the NP‑modified (010) ꞵ‑Ga2O3 sample with Pd diodes and Ti/Au ohmic contact labelled.
+    <figcaption>Figure 2: Schematic diagrams for the sample holder used for the Pd Schottky diode fabrication. (A) Sample holder and shadow mask. (B) During the sputtering process. (C) After the sputtering process and removal of shadow mask. (D) Photograph of the NP‑modified (010) ꞵ‑Ga2O3 sample with Pd diodes and Ti/Au ohmic contact labelled.
     </figcaption>
 </figure>
 <br>
-* Computational analysis of the metal oxide surfaces before and after the attachement of aryl groups
+* **Computational analysis of the metal oxide surfaces before and after the attachement of aryl groups**
 <figure>
     <img src="/assets/PhD_3a.png"
       width=66%
@@ -56,7 +56,7 @@ As a PhD student in the School of Physical and Chemical Sciences at the Universi
     <img src="/assets/PhD_3c.png"
       width=30%
       alt="Something">
-      <figcaption>(A) (A) Geomerty optimised Ph surface with the (010) showing the plane of the Ph ring and the (101) surface plane. (B) schematic showing the angle of the phenyl group with respect to the (101) plane and [001] vector.
+      <figcaption>Figure 3: (A) Geomerty optimised Ph surface with the (010) showing the plane of the Ph ring and the (101) surface plane. (B) schematic showing the angle of the phenyl group with respect to the (101) plane and [001] vector.
       (B) Band structure of the different SnO2 surface. Surface and bulk bandgaps were determined from the contribution of the ions in these regions. EF has been shifted to 0 eV.
       (C) Side and top view of the relaxed (¯201) surface with the naming convention highlighted.
     </figcaption>
@@ -71,12 +71,12 @@ My Honours thesis project, under the supervision of Prof. Alsion Downard and Ass
 decrease the corrosion properties of the biomedical magnesium.
 
 <figure>
-    <img src="/assets/Biomedical_Mg.png"
-        width=60%
-        alt="Elephant at sunset">
-    <figcaption>The mechanical strength of bone, permanent implants, and solid and porous degradable
-    implants as the bone heals. Consolidation is the point at which the stronger lamellar bone forms,
-    requiring pressure to form correctly.</figcaption>
+<img src="/assets/Biomedical_Mg.png"
+width=60%
+alt="Elephant at sunset">
+<figcaption>The mechanical strength of bone, permanent implants, and solid and porous degradable
+implants as the bone heals. Consolidation is the point at which the stronger lamellar bone forms,
+requiring pressure to form correctly.</figcaption>
 </figure>
 
 
