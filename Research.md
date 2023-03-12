@@ -38,20 +38,20 @@ As a PhD student in the School of Physical and Chemical Sciences at the Universi
 
 * **Nanofabrication of Schotty diodes**
 <figure>
-    <img src="/assets/PhD_2.png" width=80% alt="A few figures from my thesis">
+    <img src="/assets/PhD_2.png" style="width:80%" alt="A few figures from my thesis">
     <figcaption>Figure 2: Schematic diagrams for the sample holder used for the Pd Schottky diode fabrication. (A) Sample holder and shadow mask. (B) During the sputtering process. (C) After the sputtering process and removal of shadow mask. (D) Photograph of the NP‑modified (010) ꞵ‑Ga2O3 sample with Pd diodes and Ti/Au ohmic contact labelled.
     </figcaption>
 </figure>
 <br>
 * **Computational analysis of the metal oxide surfaces before and after the attachement of aryl groups**
 <figure>
-  <img src="/assets/PhD_3a.png" width=66% alt="A few figures from my thesis">
-  <img src="/assets/PhD_3b.png" width=30% alt="A few figures from my thesis">
-  <img src="/assets/PhD_3c.png" width=30% alt="Something">
-  <figcaption>Figure 3: (A) Geomerty optimised Ph surface with the (010) showing the plane of the Ph ring and the (101) surface plane. (B) schematic showing the angle of the phenyl group with respect to the (101) plane and [001] vector.
-  (B) Band structure of the different SnO2 surface. Surface and bulk bandgaps were determined from the contribution of the ions in these regions. EF has been shifted to 0 eV.
-  (C) Side and top view of the relaxed (¯201) surface with the naming convention highlighted.
-  </figcaption>
+    <img src="/assets/PhD_3a.png" style="width:66%" alt="A few figures from my thesis">
+    <img src="/assets/PhD_3b.png" style="width:30%" alt="A few figures from my thesis">
+    <img src="/assets/PhD_3c.png" style="width:30%" alt="Something">
+    <figcaption>Figure 3: (A) Geomerty optimised Ph surface with the (010) showing the plane of the Ph ring and the (101) surface plane. (B) schematic showing the angle of the phenyl group with respect to the (101) plane and [001] vector.
+    (B) Band structure of the different SnO2 surface. Surface and bulk bandgaps were determined from the contribution of the ions in these regions. EF has been shifted to 0 eV.
+    (C) Side and top view of the relaxed (¯201) surface with the naming convention highlighted.
+    </figcaption>
 </figure>
 <br>
 
@@ -63,7 +63,7 @@ My Honours thesis project, under the supervision of Prof. Alsion Downard and Ass
 decrease the corrosion properties of the biomedical magnesium.
 
 <figure>
-  <img src="/assets/Biomedical_Mg.png" width=60% alt="Elephant at sunset">
+  <img src="/assets/Biomedical_Mg.png" style="width:60%" alt="Elephant at sunset">
   <figcaption>The mechanical strength of bone, permanent implants, and solid and porous degradable implants as the bone heals. Consolidation is the point at which the stronger lamellar bone forms, requiring pressure to form correctly.</figcaption>
 </figure>
 <br>
@@ -74,7 +74,7 @@ A link to my thesis can be found here: [*Novel Coatings for Improving the Corros
 The use of molten oxide electrolysis to produce metals has been proven more sustainable and environmentally friendly than the common, carbon-intensive, traditional metallurgical processes. The potential to reduce emissions to the environment increases if large-scale waste materials are used as feedstock for this process. It has been shown that the electrochemical recovery of metals from molten TiO<sub>2</sub>−SiO<sub>2</sub>−Al<sub>2</sub>O<sub>3</sub>−MgO−CaO slag, a by-product of some ironmaking processes, is feasible, although the process had very low faradaic efficiency. Moreover, Ti-bearing slag has been proposed as a substitute for rutile as the feedstock for the titanium industry. However, a more extensive understanding of the electrical properties of this complex oxide system in its molten state is paramount in the design of industrial electrochemical cells.
 
 <figure>
-  <img src="/assets/ThermoCalc.png" width=60% alt="Pseudo-Ternary Phase Diagram">
+  <img src="/assets/ThermoCalc.png" style="width:60%" alt="Pseudo-Ternary Phase Diagram">
   <figcaption>A pseudo-ternary phase diagram of the SiO<sub>2</sub>-CaO-FeO system. Calculated using ThermoCalc.
   </figcaption>
 </figure>
