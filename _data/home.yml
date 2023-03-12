@@ -1,12 +1,18 @@
 navbar_entries:
-  - title: About
-    url: about
+  - title: CV
+    url: CV
 
-  - title: Posts
-    url: blog
+  - title: Research
+    url: research
 
   - title: CV
     url: CV
+
+  - title: Publications
+    url: Publications
+
+    - title: Posts
+    url: blog
 
 project_entries:
   - title: Curriculum Vitae
@@ -21,7 +27,7 @@ project_entries:
     url: Publications
     desc: Projects are shown in card layout.
 
-  - title: Blogs
+  - title: Blog Posts
     url: blog
     desc: A collection of things that I decided to write about.
 
