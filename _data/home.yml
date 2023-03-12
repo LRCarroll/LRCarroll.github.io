@@ -1,15 +1,15 @@
 navbar_entries:
   - title: CV
-    url: CV
+    url: ./CV
 
   - title: Research
-    url: research
+    url: ./research
 
   - title: Publications
-    url: Publications
+    url: ./Publications
 
   - title: Posts
-    url: blog
+    url: ./blog
 
 project_entries:
   - title: Curriculum Vitae
