@@ -11,19 +11,19 @@ navbar_entries:
 project_entries:
   - title: Curriculum Vitae
     url: CV
-    desc:  Short written summary of my career, qualifications, and education
+    desc:  Short written summary of my career, qualifications, and education.
 
   - title: My Research Projects
     url: research
-    desc: Summary of previous research and experiences
+    desc: Summary of previous research and experiences.
 
   - title: Publications
     url: Publications
-    desc: Projects are shown in card layout
+    desc: Projects are shown in card layout.
 
-  - title: How To
-    url: How_to
-    desc: A collection of how to for myself and you to learn how to do things
+  - title: Blogs
+    url: blog
+    desc: A collection of things that I decided to write about.
 
   #- title: Project 4
   #  url: overview-post
