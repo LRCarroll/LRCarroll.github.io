@@ -62,13 +62,14 @@ old_project_entries:
 
 footer_entries:
   - title: Email
-    url: liam.robert.carroll@gmail.com
+    url: mailto:liam.robert.carroll@gmail.com
 
   - title: LinkedIn
     url: https://www.linkedin.com/in/liam-r-carroll/
 
   - title: GitHub
     url: https://github.com/LRCarroll
+    
 
 
 misc_entries:
