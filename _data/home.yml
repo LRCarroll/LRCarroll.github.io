@@ -8,7 +8,7 @@ navbar_entries:
   - title: Publications
     url: Publications
 
-    - title: Posts
+  - title: Posts
     url: blog
 
 project_entries:
