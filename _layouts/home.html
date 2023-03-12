@@ -32,7 +32,8 @@ layout: default
   On this website, you'll find updates on my current research, publications, and other projects. Please note that the views expressed here are my own and not those of any organisation I am affiliated with. I will update this page when time permits, so please check back periodically. If you have any interesting opportunities or collaborations, please feel free to contact me below.
 </p>
 
-<hr class="dashed">
+<div class="dashed"></div>
+
 {% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>
   {% include card_list.html collection=site.data.home.project_entries %}
@@ -53,7 +54,8 @@ layout: default
   {% include card_list.html collection=site.data.home.old_project_entries %}
 {% endif %}
 
-<hr class="dashed">
+<div class="dashed"></div>
+
 <h2>  Making this website </h2>
 
 <p>
